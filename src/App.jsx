@@ -16,6 +16,10 @@ export default function App() {
         <Skills />
         <Contact />
       </main>
+      <footer className="text-center text-sm text-[#403035] py-4">
+        Created with ❤️ by Lindsey Lawson
+      </footer>
+
     </>
   );
 }
