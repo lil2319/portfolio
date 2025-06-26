@@ -82,8 +82,6 @@ export default function Contact() {
                         >
                             GitHub
                         </a>
-
-                        Created with ❤️ by Lindsey Lawson
                     </p>
                 </div>
             </div>
