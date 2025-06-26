@@ -9,7 +9,7 @@ export default function Contact() {
             <div className="w-full max-w-xl px-4 md:px-8">
                 <h2 className="text-4xl font-bold text-center mb-6">Contact Me</h2>
                 <p className="max-w-lg mx-auto mb-10 text-center">
-                    I’m eager to collaborate or answer any questions. Feel free to reach out by filling the form below or emailing me directly.
+                    I’m excited to collaborate or answer any questions. Feel free to reach out by filling the form below or emailing me directly.
                 </p>
 
                 {state.succeeded ? (
