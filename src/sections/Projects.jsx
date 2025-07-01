@@ -3,7 +3,7 @@ import AnimatedSection from '../components/AnimatedSection';
 const projects = [
     {
         title: "WasteNot",
-        description: "Full-stack web app that helps users reduce food waste by tracking inventory, suggesting recipes, and providing composting resources.",
+        description: "Full-stack web app built in a team setting to help users reduce food waste by tracking inventory, suggesting recipes, and providing composting resources.",
         url: "https://www.wastenotkitchen.com/",
         tech: ["FastAPI", "React", "PostgreSQL", "Spoonacular API", "Google Maps API"],
     },
